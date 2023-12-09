@@ -1,0 +1,84 @@
+.home{
+  color: #6495ED;
+  min-height: 60vh;
+  margin-left: 1%;
+  }
+  .home h1{
+    margin-top: 4%;
+    color: black;
+ }
+ .home p{
+  margin-top: 2%;
+  color: black;
+}
+.home button{
+  margin-top: 5%;
+  text-align: center;
+  margin-left: 43%;
+  background-color: skyblue;
+}
+  .objeto h1{
+  color: black;
+  margin-top: 3%;
+  text-align: center;
+}
+
+.objeto p{
+  color: gray;
+  margin: 1%;
+  text-align: center;
+}
+
+.sobre{
+  color: #B8860B;
+  min-height: 60vh;
+}
+
+.objeto button{
+  background-color: skyblue;;
+  margin-left: 50%;
+  margin-top: 2%;
+}
+
+.objetos button{
+  background-color: skyblue;;
+  margin-left: 50%;
+  margin-top: 2%;
+}
+
+.profile{
+  text-align: center;
+  color: black;
+}
+
+.profile h2{
+  margin-top: 3%;
+  font-size: 40px;
+}
+
+.profile .descriobjeto{
+  text-align: left;
+  margin: 1%;
+  margin-top: 3%;
+  font-size: 30px;
+}
+
+.profile p{
+  margin-top: 3%;
+  font-size: 25px;
+}
+
+
+.profile button{
+  margin-top: 3%;
+  background-color: skyblue;;
+}
+
+
+
+
+
+
+
+
+  
